@@ -1,12 +1,13 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: IOCP
+  description: IOCP(I/O Completion Port) is usually used to develope game-server
+ #I can develop a distributed game server using IOCP.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Java
+  description: I've used it to develop REST API server from 3 years ago. with Spring framework 
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: MSSQL
+  description: I've developed ranking servers that are aggregated periodically using MSSQL
