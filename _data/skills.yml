@@ -3,6 +3,9 @@
 - skill: IOCP
   description: IOCP(I/O Completion Port) is usually used to develope game-server
  #I can develop a distributed game server using IOCP.
+ 
+- skill: TCP/IP Socket Programming
+  description: Have developed a game server using TCP/IP socket programming and multi-threading
 
 # Communications strategy
 - skill: Java
