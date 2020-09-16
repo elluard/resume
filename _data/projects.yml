@@ -1,16 +1,22 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: DietCamera AI & Sangsik
+  role: Senior Server Programmer / Database Developer / iOS Developer(occasionally)
+  duration: Jun 2017 &mdash; Present
+  description: Diet-helping-mobile app using deep-learning technology. I am in charge of developing server and database and occasionally in charge of iOS
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Hyper Universe
+  role: Server Programmer
+  duration: Jul 2015 &mdash; Mar 2017
+  description: Side-scrolling MOBA game published by NEXON Korea. 
+  
+- project: Blade and soul mobile
+  role: Server Programmer
+  duration: Jan 2014 &mdash; Jul 2015
+  description: Mobile trading-card-game serviced in China, published by Tencent
+  
+- project: Janryumon (雀龍門)
+  role: Server Programmer
+  duration: Apr 2011 &mdash; Dec 2013
+  description: Mahjong Game on Service in Japan, published by NCJapan
